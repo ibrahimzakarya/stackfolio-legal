@@ -1,6 +1,6 @@
-# mygoldstash-legal
+# stackfolio-legal
 
 Legal pages for the **Stackfolio** iOS app.
 
-- Privacy Policy: <https://ibrahimzakarya.github.io/mygoldstash-legal/privacy>
-- Support: <https://ibrahimzakarya.github.io/mygoldstash-legal/support>
+- Privacy Policy: <https://ibrahimzakarya.github.io/stackfolio-legal/privacy>
+- Support: <https://ibrahimzakarya.github.io/stackfolio-legal/support>
