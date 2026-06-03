@@ -7,4 +7,4 @@ title: Stackfolio — Legal
 - [Privacy Policy](./privacy)
 - [Support](./support)
 
-Contact: [ibrahim.zakarya93@gmail.com](mailto:ibrahim.zakarya93@gmail.com)
+Contact: [ibrahim.stackfolio@gmail.com](mailto:ibrahim.stackfolio@gmail.com)

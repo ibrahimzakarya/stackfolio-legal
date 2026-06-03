@@ -6,7 +6,7 @@ title: Support
 
 Need help with the app? We're happy to help.
 
-**Email:** [ibrahim.zakarya93@gmail.com](mailto:ibrahim.zakarya93@gmail.com)
+**Email:** [ibrahim.stackfolio@gmail.com](mailto:ibrahim.stackfolio@gmail.com)
 
 We typically respond within 2 business days.
 

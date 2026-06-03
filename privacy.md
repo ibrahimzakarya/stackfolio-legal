@@ -75,4 +75,4 @@ We may update this policy from time to time. Material changes will be reflected 
 
 ## Contact
 
-Questions about this policy? Contact us at **ibrahim.zakarya93@gmail.com**.
+Questions about this policy? Contact us at **ibrahim.stackfolio@gmail.com**.
