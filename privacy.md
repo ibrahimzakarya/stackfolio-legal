@@ -2,11 +2,11 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy for My Gold Stash
+# Privacy Policy for Stackfolio
 
 **Effective Date:** June 3, 2026
 
-My Gold Stash ("the App") is a precious metals portfolio tracker developed by Ibrahim Zakarya ("we", "us"). This policy explains what information the App handles and how.
+Stackfolio ("the App") is a precious metals portfolio tracker developed by Ibrahim Zakarya ("we", "us"). This policy explains what information the App handles and how.
 
 ## Information We Do Not Collect
 

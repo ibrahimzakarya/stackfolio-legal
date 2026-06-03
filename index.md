@@ -1,8 +1,8 @@
 ---
-title: My Gold Stash — Legal
+title: Stackfolio — Legal
 ---
 
-# My Gold Stash
+# Stackfolio
 
 - [Privacy Policy](./privacy)
 - [Support](./support)
